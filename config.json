@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscelete",
+        "uuid": 11350428,
+        "checksum": "m94f5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
